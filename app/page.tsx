@@ -46,7 +46,7 @@ export default function Home() {
               YN
             </div>
             <span className="text-xl font-bold tracking-tight font-display text-slate-900 dark:text-white">
-              Your Name
+              Zahir Raihan
             </span>
           </div>
 
@@ -95,13 +95,13 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold font-display tracking-tight text-slate-900 dark:text-white mb-6">
               Hi, I&apos;m{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
-                Your Name
+                Zahir Raihan
               </span>
             </h1>
 
             {/* Title/Specialty */}
             <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-4 font-medium">
-              Your Professional Title
+              Devops and Cloud Infrastructure Engineer with 15+ years of Experience
             </p>
 
             {/* Tagline */}
@@ -508,7 +508,7 @@ export default function Home() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="text-sm text-slate-600 dark:text-slate-400">
-              © {new Date().getFullYear()} Your Name. All rights reserved.
+              © {new Date().getFullYear()} Zahir Raihan. All rights reserved.
             </div>
             <div className="flex items-center gap-6">
               <a href="#" className="text-sm text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
