@@ -106,7 +106,7 @@ export default function Home() {
 
             {/* Tagline */}
             <p className="text-lg text-slate-500 dark:text-slate-400 mb-8 max-w-2xl mx-auto">
-              Architecting scalable multi-cloud infrastructure, automated GitOps pipelines, and resilient Kubernetes platforms for high-growth engineering teams.
+              Architecting scalable multi-cloud infrastructure, automated GitOps pipelines
             </p>
 
             {/* CTA Buttons */}
