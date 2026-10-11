@@ -43,7 +43,7 @@ export default function Home() {
           {/* Logo */}
           <div className="flex items-center gap-2 cursor-pointer">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-indigo-700 flex items-center justify-center text-white font-bold text-sm">
-              ZR
+              YN
             </div>
             <span className="text-xl font-bold tracking-tight font-display text-slate-900 dark:text-white">
               Zahir Raihan
@@ -106,7 +106,7 @@ export default function Home() {
 
             {/* Tagline */}
             <p className="text-lg text-slate-500 dark:text-slate-400 mb-8 max-w-2xl mx-auto">
-              Scalable multi-cloud infrastructure, automated GitOps pipelines.
+              Your value proposition in one compelling sentence. What transformation do you provide for your clients?
             </p>
 
             {/* CTA Buttons */}
