@@ -43,7 +43,7 @@ export default function Home() {
           {/* Logo */}
           <div className="flex items-center gap-2 cursor-pointer">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-indigo-700 flex items-center justify-center text-white font-bold text-sm">
-              YN
+              mini_ZR.jpg
             </div>
             <span className="text-xl font-bold tracking-tight font-display text-slate-900 dark:text-white">
               Zahir Raihan
