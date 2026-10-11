@@ -169,6 +169,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Education</h3>
                   <p className="text-sm text-slate-600 dark:text-slate-400">MSCS & BSCS (in Computer Science) from San Jose State University</p>
+		  C
                   <p className="text-sm text-slate-600 dark:text-slate-400">DOD Certificate from UCSC and working on Agentic AI, Deep Learning, Machine Learning(ML), ROS & ROS2 at California Science & Technology University</p>      
                 </div>
               </div>
@@ -179,7 +180,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Experience</h3>
-                  <p className="text-sm text-slate-600 dark:text-slate-400">Former Role at Notable Company</p>
+                  <p className="text-sm text-slate-600 dark:text-slate-400">DevOps & Cloud Engineer at Supernal / Hyundai Motor Group</p>
                 </div>
               </div>
  
@@ -189,7 +190,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Recognition</h3>
-                  <p className="text-sm text-slate-600 dark:text-slate-400">Award or Notable Achievement</p>
+                  <p className="text-sm text-slate-600 dark:text-slate-400">DOD Certificate from UCSC and working on Agentic AI, Deep Learning, Machine Learning(ML), ROS & ROS2 at California Science & Technology University</p>
                 </div>
               </div>
             </div>
