@@ -169,7 +169,6 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Education</h3>
                   <p className="text-sm text-slate-600 dark:text-slate-400">MSCS & BSCS (in Computer Science) from San Jose State University</p>
-		  C
                   <p className="text-sm text-slate-600 dark:text-slate-400">DOD Certificate from UCSC and working on Agentic AI, Deep Learning, Machine Learning(ML), ROS & ROS2 at California Science & Technology University</p>      
                 </div>
               </div>
@@ -211,7 +210,7 @@ export default function Home() {
                 Services
               </h2>
               <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-                Choose the engagement level that works best for you
+                I can provide services for you with stand-alone project/projects as an individual engagement level that works best for you
               </p>
             </div>
 
@@ -223,10 +222,10 @@ export default function Home() {
                   <BookOpenIcon />
                 </div>
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service One</h3>
-                <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your entry-level or self-service offering.</p>
+                <p className="text-slate-600 dark:text-slate-400 mb-4">Cloud Infrastructure & IaC (Terraform, AWS/Azure, automated provisioning).</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  $499
-                  <span className="text-base font-normal text-slate-500">/project</span>
+
+                  <span className="text-base font-normal text-slate-500">Individual project</span>
                 </div>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
@@ -257,9 +256,9 @@ export default function Home() {
                   <UsersIcon />
                 </div>
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service Two</h3>
-                <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your mid-tier, done-with-you offering.</p>
+                <p className="text-slate-600 dark:text-slate-400 mb-4">A complete turn-key project done-with-you offering.</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  $1,999
+                  
                   <span className="text-base font-normal text-slate-500">/month</span>
                 </div>
                 <ul className="space-y-3 mb-8">
