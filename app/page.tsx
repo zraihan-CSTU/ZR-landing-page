@@ -1,4 +1,4 @@
-// ============================================================
+rchitecting scalable multi-cloud infrastructure, automated GitOps pipelines, and resilient Kubernetes platforms for high-growth engineering teams.// ============================================================
 // AGENTIC LANDING PAGE TEMPLATE
 // ============================================================
 // Customize this file using natural language prompts with
@@ -43,7 +43,7 @@ export default function Home() {
           {/* Logo */}
           <div className="flex items-center gap-2 cursor-pointer">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-indigo-700 flex items-center justify-center text-white font-bold text-sm">
-              mini_ZR.jpg
+              ZR
             </div>
             <span className="text-xl font-bold tracking-tight font-display text-slate-900 dark:text-white">
               Zahir Raihan
@@ -106,7 +106,7 @@ export default function Home() {
 
             {/* Tagline */}
             <p className="text-lg text-slate-500 dark:text-slate-400 mb-8 max-w-2xl mx-auto">
-              Your value proposition in one compelling sentence. What transformation do you provide for your clients?
+              Architecting scalable multi-cloud infrastructure, automated GitOps pipelines, and resilient Kubernetes platforms for high-growth engineering teams.
             </p>
 
             {/* CTA Buttons */}
@@ -136,14 +136,14 @@ export default function Home() {
                 Why Work With Me
               </h2>
               <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-                Brief overview of your experience and what makes you unique
+                Brief overview of your experience and what makes me unique
               </p>
             </div>
 
             {/* Stats grid */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-16">
               <div className="text-center p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl">
-                <div className="text-3xl md:text-4xl font-bold text-blue-600 dark:text-blue-400 mb-2">10+</div>
+                <div className="text-3xl md:text-4xl font-bold text-blue-600 dark:text-blue-400 mb-2">15+</div>
                 <div className="text-sm text-slate-600 dark:text-slate-400">Years Experience</div>
               </div>
               <div className="text-center p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl">
