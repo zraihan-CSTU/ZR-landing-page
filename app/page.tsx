@@ -169,6 +169,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Education</h3>
                   <p className="text-sm text-slate-600 dark:text-slate-400">MSCS & BSCS (in Computer Science) from San Jose State University</p>
+                  <p className="text-sm text-slate-600 dark:text-slate-400">DOD Certificate from UCSC and working on Agentic AI, Deep Learning, Machine Learning(ML), ROS & ROS2 at California Science & Technology University</p>      
                 </div>
               </div>
 
@@ -181,7 +182,7 @@ export default function Home() {
                   <p className="text-sm text-slate-600 dark:text-slate-400">Former Role at Notable Company</p>
                 </div>
               </div>
-
+ 
               <div className="flex items-start gap-4 p-6 bg-slate-50 dark:bg-slate-800 rounded-2xl">
                 <div className="w-12 h-12 rounded-xl bg-amber-100 dark:bg-amber-900/50 flex items-center justify-center text-amber-600 dark:text-amber-400 flex-shrink-0">
                   <SparklesIcon />
