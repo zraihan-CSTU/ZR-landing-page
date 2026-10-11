@@ -168,7 +168,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Education</h3>
-                  <p className="text-sm text-slate-600 dark:text-slate-400">Your Degree from Your University</p>
+                  <p className="text-sm text-slate-600 dark:text-slate-400">MSCS & BSCS (in Computer Science) from San Jose State University</p>
                 </div>
               </div>
 
