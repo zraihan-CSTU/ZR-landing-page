@@ -259,7 +259,7 @@ export default function Home() {
                 <p className="text-slate-600 dark:text-slate-400 mb-4">A complete turn-key project done-with-you offering.</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
                   
-                  <span className="text-base font-normal text-slate-500">/month</span>
+                  <span className="text-base font-normal text-slate-500">With a fixed amount of contact for certain time</span>
                 </div>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
@@ -292,7 +292,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service Three</h3>
                 <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your premium, done-for-you offering.</p>
                 <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  Custom
+                  Year long service and Support 
                   <span className="text-base font-normal text-slate-500"> pricing</span>
                 </div>
                 <ul className="space-y-3 mb-8">
@@ -314,7 +314,7 @@ export default function Home() {
                   </li>
                 </ul>
                 <a href="#contact" className="block w-full text-center py-3 px-6 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-900 dark:text-white rounded-xl font-medium transition-colors">
-                  Book Discovery Call
+                   Call for MOA and dicussion
                 </a>
               </div>
             </div>
