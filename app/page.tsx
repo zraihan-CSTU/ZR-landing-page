@@ -314,7 +314,7 @@ export default function Home() {
                   </li>
                 </ul>
                 <a href="#contact" className="block w-full text-center py-3 px-6 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-900 dark:text-white rounded-xl font-medium transition-colors">
-                   Call for MOA and dicussion
+                   Call for MOA and Dicussion
                 </a>
               </div>
             </div>
