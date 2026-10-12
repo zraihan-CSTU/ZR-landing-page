@@ -482,7 +482,7 @@ export default function Home() {
                 className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-slate-700 dark:text-slate-200 bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-all"
               >
                 <MailIcon className="w-5 h-5 mr-2" />
-                your@email.com
+                zahir.raihan@cstu.edu
               </a>
             </div>
 
