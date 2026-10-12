@@ -207,7 +207,7 @@ export default function Home() {
             {/* Section header */}
             <div className="text-center mb-16">
               <h2 className="text-3xl md:text-4xl font-bold font-display text-slate-900 dark:text-white mb-4">
-	        :::::::>>>  Services  <<<:::::::
+	        Services 
               </h2>
               <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
                 I can provide services for you with stand-alone project/projects as an individual engagement level that works best for you
