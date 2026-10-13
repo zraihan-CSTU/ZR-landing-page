@@ -282,12 +282,10 @@ export default function Home() {
                   <BoltIcon />
                 </div>
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service Three</h3>
-                <p className="text-slate-600 dark:text-slate-400 mb-4">Description of your premium, done-for-you offering.</p>
-                <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  Year long service and Support 
-                  <span className="text-base font-normal text-slate-500"> pricing</span>
-                </div>
-                <ul className="space-y-3 mb-8">
+                <p className="text-slate-600 dark:text-slate-400 mb-4">SRE, Observability & Cloud Security (Prometheus, Grafana, cost optimization, compliance).</p>
+
+               
+		<ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
                     Full-service execution
