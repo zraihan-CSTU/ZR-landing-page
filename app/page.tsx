@@ -314,15 +314,6 @@ export default function Home() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-6xl mx-auto">
             {/* Section header */}
-            <div className="text-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-bold font-display text-slate-900 dark:text-white mb-4">
-                Featured Work
-              </h2>
-              <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-                Selected projects and results
-              </p>
-            </div>
-
             {/* Case studies grid */}
               {/* Case Study 1 */}
               {/* Case Study 2 */}
