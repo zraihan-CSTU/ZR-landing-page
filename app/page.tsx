@@ -127,7 +127,7 @@ export default function Home() {
       {/* ABOUT/AUTHORITY SECTION - Credentials and trust signals      */}
       {/* Prompt: "Update credentials to [your experience/credentials]"*/}
       {/* ============================================================ */}
-      <section id="about" className="py-20 bg-white dark:bg-slate-900">
+      <section id="about" className="py-10 bg-white dark:bg-slate-900">
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-6xl mx-auto">
             {/* Section header */}
