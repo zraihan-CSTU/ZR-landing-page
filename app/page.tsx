@@ -307,23 +307,6 @@ export default function Home() {
       </section>
 
       {/* ============================================================ */}
-      {/* WORK/CASE STUDIES - Show your best projects                  */}
-      {/* Prompt: "Add case study about [project] with [results]"      */}
-      {/* ============================================================ */}
-      <section id="work" className="py-20 bg-white dark:bg-slate-900">
-        <div className="container mx-auto px-4 md:px-6">
-          <div className="max-w-6xl mx-auto">
-            {/* Section header */}
-            {/* Case studies grid */}
-              {/* Case Study 1 */}
-              {/* Case Study 2 */}
-              {/* Case Study 3 */}
-	      
-          </div>
-        </div>
-      </section>
-
-      {/* ============================================================ */}
       {/* FAQ SECTION - Answer common questions                        */}
       {/* Prompt: "Add FAQ: [Question] with answer [Answer]"           */}
       {/* ============================================================ */}
