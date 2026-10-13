@@ -327,7 +327,7 @@ export default function Home() {
               {/* Case Study 1 */}
               {/* Case Study 2 */}
               {/* Case Study 3 */}
-	      
+		  </div>
           </div>
       </section>
 
