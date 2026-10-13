@@ -201,6 +201,7 @@ export default function Home() {
       {/* SERVICES SECTION - Your offerings with pricing               */}
       {/* Prompt: "Update services to [Service 1], [Service 2], etc."  */}
       {/* ============================================================ */}
+
       <section id="services" className="py-20 bg-slate-50 dark:bg-slate-950">
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-6xl mx-auto">
