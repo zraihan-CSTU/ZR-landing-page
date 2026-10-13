@@ -328,9 +328,7 @@ export default function Home() {
               {/* Case Study 2 */}
               {/* Case Study 3 */}
 	      
-            </div>
           </div>
-        </div>
       </section>
 
       {/* ============================================================ */}
