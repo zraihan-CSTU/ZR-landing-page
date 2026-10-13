@@ -241,9 +241,6 @@ export default function Home() {
                     Feature three included
                   </li>
                 </ul>
-                <a href="#contact" className="block w-full text-center py-3 px-6 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-900 dark:text-white rounded-xl font-medium transition-colors">
-                  Get Started
-                </a>
               </div>
 
               {/* Service 2 - DWY/Most Popular */}
@@ -272,7 +269,7 @@ export default function Home() {
                   </li>
                 </ul>
                 <a href="#contact" className="block w-full text-center py-3 px-6 bg-blue-600 hover:bg-blue-700 text-white rounded-xl font-medium transition-colors">
-                  Apply Now
+                  Let's Connect and Talk 
                 </a>
               </div>
 
@@ -303,9 +300,6 @@ export default function Home() {
                     Ongoing partnership
                   </li>
                 </ul>
-                <a href="#contact" className="block w-full text-center py-3 px-6 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-900 dark:text-white rounded-xl font-medium transition-colors">
-                 Call 
-                </a>
               </div>
             </div>
           </div>
