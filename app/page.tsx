@@ -322,60 +322,12 @@ export default function Home() {
                 Selected projects and results
               </p>
             </div>
-
-            {/* Case studies grid */}
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {/* Case Study 1 */}
-              <div className="group bg-slate-50 dark:bg-slate-800 rounded-2xl overflow-hidden">
-                <div className="h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center">
-                  <span className="text-white text-6xl font-bold opacity-20">01</span>
-                </div>
-                <div className="p-6">
-                  <div className="text-sm text-blue-600 dark:text-blue-400 font-medium mb-2">Client Type / Industry</div>
-                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Project Title</h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Brief description of the challenge and solution.</p>
-                  <div className="flex items-center gap-2 text-green-600 dark:text-green-400 font-semibold">
-                    <TrendingUpIcon />
-                    Key Result / Metric
-                  </div>
-                </div>
-              </div>
-
-              {/* Case Study 2 */}
-              <div className="group bg-slate-50 dark:bg-slate-800 rounded-2xl overflow-hidden">
-                <div className="h-48 bg-gradient-to-br from-purple-500 to-pink-600 flex items-center justify-center">
-                  <span className="text-white text-6xl font-bold opacity-20">02</span>
-                </div>
-                <div className="p-6">
-                  <div className="text-sm text-purple-600 dark:text-purple-400 font-medium mb-2">Client Type / Industry</div>
-                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Project Title</h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Brief description of the challenge and solution.</p>
-                  <div className="flex items-center gap-2 text-green-600 dark:text-green-400 font-semibold">
-                    <TrendingUpIcon />
-                    Key Result / Metric
-                  </div>
-                </div>
-              </div>
-
-              {/* Case Study 3 */}
-              <div className="group bg-slate-50 dark:bg-slate-800 rounded-2xl overflow-hidden">
-                <div className="h-48 bg-gradient-to-br from-amber-500 to-orange-600 flex items-center justify-center">
-                  <span className="text-white text-6xl font-bold opacity-20">03</span>
-                </div>
-                <div className="p-6">
-                  <div className="text-sm text-amber-600 dark:text-amber-400 font-medium mb-2">Client Type / Industry</div>
-                  <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Project Title</h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-sm mb-4">Brief description of the challenge and solution.</p>
-                  <div className="flex items-center gap-2 text-green-600 dark:text-green-400 font-semibold">
-                    <TrendingUpIcon />
-                    Key Result / Metric
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
         </div>
       </section>
+
+      {/*=======================================================================================*/}
 
       {/* ============================================================ */}
       {/* FAQ SECTION - Answer common questions                        */}
