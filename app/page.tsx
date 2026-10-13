@@ -257,18 +257,10 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Service Two</h3>
                 <p className="text-slate-600 dark:text-slate-400 mb-4">CI/CD & Kubernetes Platforms (ArgoCD, Docker, zero-downtime release pipelines).</p> 
-                <div className="text-3xl font-bold text-slate-900 dark:text-white mb-6">
-                  
-                  <span className="text-base font-normal text-slate-500">With a fixed amount of contact for certain time</span>
-                </div>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
                     A complete turn-key project done-with-you offering.verything in Service One
-                  </li>
-                  <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
-                    <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
-                    Weekly coaching calls
                   </li>
                   <li className="flex items-center text-sm text-slate-600 dark:text-slate-400">
                     <CheckIcon className="w-5 h-5 text-green-500 mr-3 flex-shrink-0" />
