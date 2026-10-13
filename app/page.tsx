@@ -404,7 +404,7 @@ export default function Home() {
                   What makes you different from others?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Your unique value proposition and what sets you apart from competitors.
+                  Fast and reliable service..
                 </p>
               </div>
 
@@ -413,7 +413,7 @@ export default function Home() {
                   What is your typical process?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Explain your working process from initial contact to delivery.
+                  It's Turn-Key process from initial contact to delivery.
                 </p>
               </div>
 
@@ -422,7 +422,7 @@ export default function Home() {
                   How long does a typical project take?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Timeline expectations and what factors affect duration.
+                  Timeline expectations are depend on following factors: size of project, complexity and resorces in hand.
                 </p>
               </div>
 
@@ -459,7 +459,7 @@ export default function Home() {
             {/* Contact options */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
               <a
-                href="https://calendly.com/yourusername"
+                href="https://calendly.com/zahir.raihan@cstu.edu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition-all shadow-lg shadow-blue-500/25"
