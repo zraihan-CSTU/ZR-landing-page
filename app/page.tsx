@@ -416,17 +416,12 @@ export default function Home() {
                   How long does a typical project take?
                 </h3>
                 <p className="text-slate-600 dark:text-slate-400">
-                  Timeline expectations are depend on following factors: size of project, complexity and resorces in hand.
+                  Timeline expectations are depend on following factors: 
+                  size of project, complexity and resorces in hand.
                 </p>
               </div>
 
               <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 border border-slate-200 dark:border-slate-700">
-                <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-2">
-                  Do you offer payment plans?
-                </h3>
-                <p className="text-slate-600 dark:text-slate-400">
-                  Payment options, deposits, and billing information.
-                </p>
               </div>
             </div>
           </div>
@@ -459,7 +454,7 @@ export default function Home() {
                 className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition-all shadow-lg shadow-blue-500/25"
               >
                 <CalendarIcon className="w-5 h-5 mr-2" />
-                Schedule a Call
+                Schedule a Meeting
               </a>
               <a
                 href="mailto:your@email.com"
