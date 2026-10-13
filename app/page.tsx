@@ -201,7 +201,6 @@ export default function Home() {
       {/* SERVICES SECTION - Your offerings with pricing               */}
       {/* Prompt: "Update services to [Service 1], [Service 2], etc."  */}
       {/* ============================================================ */}
-
       <section id="services" className="py-20 bg-slate-50 dark:bg-slate-950">
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-6xl mx-auto">
@@ -316,19 +315,22 @@ export default function Home() {
           <div className="max-w-6xl mx-auto">
             {/* Section header */}
             <div className="text-center mb-16">
+              <h2 className="text-3xl md:text-4xl font-bold font-display text-slate-900 dark:text-white mb-4">
+                Featured Work
+              </h2>
+              <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
+                Selected projects and results
+              </p>
             </div>
 
-<<<<<<< HEAD
-	      
-            </div>
-=======
             {/* Case studies grid */}
               {/* Case Study 1 */}
               {/* Case Study 2 */}
               {/* Case Study 3 */}
-		  </div>
->>>>>>> 7c2d1d2a4b81f263ab18423190da22bc44a1ff81
+	      
+            </div>
           </div>
+        </div>
       </section>
 
       {/* ============================================================ */}
