@@ -317,10 +317,17 @@ export default function Home() {
             <div className="text-center mb-16">
             </div>
 
+<<<<<<< HEAD
 	      
             </div>
+=======
+            {/* Case studies grid */}
+              {/* Case Study 1 */}
+              {/* Case Study 2 */}
+              {/* Case Study 3 */}
+		  </div>
+>>>>>>> 7c2d1d2a4b81f263ab18423190da22bc44a1ff81
           </div>
-        </div>
       </section>
 
       {/* ============================================================ */}
