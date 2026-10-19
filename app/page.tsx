@@ -178,7 +178,7 @@ export default function Home() {
                   <BriefcaseIcon />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Experience</h3>
+                  <h4 className="font-semibold text-slate-900 dark:text-white mb-1">Experience</h4>
                   <p className="text-sm text-slate-600 dark:text-slate-400">DevOps & Cloud Engineer at Supernal / Hyundai Motor Group</p>
 
                   <p className="text-sm text-slate-600 dark:text-slate-400">Staff Configuration Management Engineer at Huawei/Futurewei Technologies, Inc. </p>
