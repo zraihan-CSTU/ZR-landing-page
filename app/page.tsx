@@ -114,8 +114,8 @@ export default function Home() {
 		  <ul className="skills-grid">
 		      {[
 			            {
-					            title: "Build & Release Management",
-						            text: "15+ years in DevOps practices, CI/CD deployment, and build & release management, with a strong foundation in Jenkins-based pipelines and build automation that speeds up development cycles.",
+					            title: "Build & Release Management  : 
+15+ years in DevOps practices, CI/CD deployment, and build & release management, with a strong foundation in Jenkins-based pipelines and build automation that speeds up development cycles.",
 							          },
 								        {
 										        title: "Autonomous Systems",
