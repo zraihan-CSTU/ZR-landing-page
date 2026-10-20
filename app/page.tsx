@@ -108,59 +108,6 @@ export default function Home() {
             <p className="text-lg text-slate-500 dark:text-slate-400 mb-8 max-w-2xl mx-auto">
               Architecting scalable multi-cloud infrastructure, automated CI/CD Build pipelines, and resilient Kubernetes platforms for high-growth engineering teams.
             </p>
-		      {/* Key Skills & Experience */}
-	      <section className="key-skills" id="skills">
-	        <h2>Key Skills &amp; Experience</h2>
-		  <ul className="skills-grid">
-		      {[
-			            {
-					            title: "Build & Release Management  : 
-15+ years in DevOps practices, CI/CD deployment, and build & release management, with a strong foundation in Jenkins-based pipelines and build automation that speeds up development cycles.",
-							          },
-								        {
-										        title: "Autonomous Systems",
-											        text: "4+ years in Autonomous Air Mobility (AAM) environments, supporting cockpit applications, simulation software, and battery management systems.",
-												      },
-												            {
-														            title: "AI Integration",
-															            text: "Hands-on experience adding AI to CI/CD pipelines with Jenkins AI plug-ins for build pattern analysis, faster root-cause analysis, and better build reliability.",
-																          },
-																	        {
-																			        title: "Deployment Architecture",
-																				        text: "Designed and implemented scalable Docker-based deployment architectures for performance, reliability, and scalability across environments.",
-																					      },
-																					            {
-																							            title: "AI-Driven Automation",
-																								            text: "Applied AI to requirements analysis, code reviews, test preparation, and documentation so teams can focus on strategic decisions.",
-																									          },
-																										        {
-																												        title: "Documentation Optimization",
-																													        text: "Improved the clarity and consistency of Confluence documentation with AI tools, cutting overhead and preventing defect-related costs.",
-																														      },
-																														            {
-																																            title: "Startup Experience",
-																																	            text: "Contributed to the success of startups Moasis and Encirq, supporting SaaS platforms built on Kubernetes and Terraform.",
-																																		          },
-																																			        {
-																																					        title: "Cross-Functional Leadership",
-																																						        text: "Thrived in multi-hat startup roles and grew into lead release engineering, covering release coordination, quality control, and SDLC planning.",
-																																							      },
-																																							            {
-																																									            title: "Adaptability",
-																																										            text: "Effective in high-pressure, fast-paced environments, with a solution-oriented, forward-thinking mindset.",
-																																											          },
-																																												        {
-																																														        title: "Communication Protocols",
-																																															        text: "DO-178A/B/C, RS-232, USB, Ethernet, CAN, TCP/IP, UDP, SNMP.",
-																																																      },
-																																																          ].map((skill) => (
-																																																		        <li key={skill.title} className="skill-card">
-																																																			        <h3>{skill.title}</h3>
-																																																				        <p>{skill.text}</p>
-																																																					      </li>
-																																																					          ))}
-																																																						    </ul>
-																																																						    </section>
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition-all shadow-lg shadow-blue-500/25 hover:shadow-blue-500/40">
